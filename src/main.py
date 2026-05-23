@@ -11,3 +11,8 @@ print(f"5 / 3 = {divide(5, 3)}")
 age = 30
 if age < 18:
     print("You are a minor.")   
+
+try:
+    result = divide(10, 0)
+except ValueError as e:
+    print(e)
