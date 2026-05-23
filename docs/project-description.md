@@ -1,1 +1,3 @@
 this describes the project scopes. it does basic operation like add, sub, multiply, divide and some basic profile information
+
+it also handles error
